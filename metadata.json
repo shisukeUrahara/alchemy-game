@@ -1,0 +1,5 @@
+{
+  "name": "Aether Alchemy",
+  "description": "An infinite alchemy game where you combine elements to discover the universe. Features 3D particle effects, dynamic recipe generation via Gemini AI, and synthesized audio.",
+  "requestFramePermissions": []
+}
